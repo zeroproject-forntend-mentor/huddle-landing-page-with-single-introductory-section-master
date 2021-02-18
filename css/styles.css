@@ -25,6 +25,7 @@ body {
   padding: 2.5rem;
   background-image: url(/05-huddle-landing-page-with-single-introductory-section-master/images/bg-mobile.svg);
   background-repeat: no-repeat;
+  background-size: 100%;
 }
 
 @media screen and (min-width: 768px) {
